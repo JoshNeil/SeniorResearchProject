@@ -1,1 +1,6 @@
-theme: minima
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Comparing the Efficiency of Popular Photogrammetry Software for Use in Game Development
+description: The objective of this project is to answer the question of which commonly used program, 3DF Zephyr or AutoDesk ReCap, is a more efficient tool in creating 3D models usable in the game development process.
